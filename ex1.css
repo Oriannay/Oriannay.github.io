@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.head{
+    background-color: #666666;
+    height: 30px;
+}
+
+content{
+    background-color: #949494;
+}
+
+.right{
+    width:1000px;
+    background-color: #EE0000;
+    height: 50px;
+    margin-top: 0px;
+}
+.footer{
+    background-color: #CDC5BF;
+    height: 120px;
+    margin-top: 0px;
+    clear: both;
+}
+
+.
