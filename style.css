@@ -71,10 +71,10 @@ div img:hover{
     transform: scale(1.4);  
 }  
 -moz-selection {
-    background: #26a69a;
+    background: lightblue;
     color: #ffffff;
   }
   ::selection {
-    background: #26a69a;
+    background: lightblue;
     color: #ffffff;
   }
